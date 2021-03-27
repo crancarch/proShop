@@ -48,19 +48,10 @@ https://proshopapp-by-mariosknl.herokuapp.com/
 
 # AUTHOR
 
-- Github: [@mariosknl](https://github.com/mariosknl)
-- Twitter: [@mariosknl](https://twitter.com/MariosKnl)
-- Linkedln: [marios-kanellopoulos](https://www.linkedin.com/in/marios-kanellopoulos)
-- Portfolio: [marios-kanellopoulos](https://marioskanellopoulos.com/)
+- Github: [@crancarch](https://github.com/crancarch)
+- Twitter: [@crancarch](https://twitter.com/crancarch)
+- Linkedln: [marios-kanellopoulos](https://www.linkedin.com/in/archit-gupta-15090213b/)
 
-# Show your support
-
-Give ⭐️ if you like this project!
-
-# Acknowledgments
-
-- Github: [@bradtraversy](https://github.com/bradtraversy)
-- Website: [traversy-media](http://traversymedia.com/)
 
 ### 🤝 Contributing
 
