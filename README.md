@@ -50,7 +50,7 @@ https://chanandler-proshop.herokuapp.com/
 
 - Github: [@crancarch](https://github.com/crancarch)
 - Twitter: [@crancarch](https://twitter.com/crancarch)
-- Linkedln: [marios-kanellopoulos](https://www.linkedin.com/in/archit-gupta-15090213b/)
+- Linkedln: [ArchitGupta](https://www.linkedin.com/in/archit-gupta-15090213b/)
 
 
 ### 🤝 Contributing
