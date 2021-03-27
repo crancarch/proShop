@@ -44,7 +44,7 @@ This is an eCommerce web application created with M(ongoDb)E(xpress)R(eact)N(ode
 
 # Live Version
 
-https://proshopapp-by-mariosknl.herokuapp.com/
+https://chanandler-proshop.herokuapp.com/
 
 # AUTHOR
 
